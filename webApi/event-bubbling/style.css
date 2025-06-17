@@ -1,0 +1,30 @@
+body {
+  margin: 10px auto;
+  width: 470px;
+  background-color: gray;
+}
+
+.container {
+  height: 100%;
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.box-1 {
+  padding: 2rem;
+  background-color: blue;
+  border-radius: 15px;
+  border: 2px solid #000;
+}
+.box-2 {
+  padding: 1rem;
+  background-color: red;
+  border-radius: 15px;
+  border: 2px solid #000;
+}
+.box-3 {
+  padding: 0.6rem;
+  background-color: green;
+  border-radius: 15px;
+  border: 2px solid #000;
+}
